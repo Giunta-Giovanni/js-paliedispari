@@ -1,12 +1,6 @@
 // Pari e Dispari
-// L’utente sceglie pari o dispari e inserisce un numero da 1 a 5.
-// Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione).
-// Sommiamo i due numeri
-// Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
-// Dichiariamo chi ha vinto.
 
-
-// chiediamo all utente di inserire una numero da 1 a 5 e salviamo la variabile
+// chiediamo all utente di inserire pari o dispari e un numero da 1 a 5 e salviamo le variabili
 let userChoice = prompt("pari o dispari");
 let userNumber = parseInt(prompt("inserisci una numero da 1 a 5"));
 
